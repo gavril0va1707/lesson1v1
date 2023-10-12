@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\bin\Debug\net6.0\001_HelloConsol.exe
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\bin\Debug\net6.0\001_HelloConsol.deps.json
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\bin\Debug\net6.0\001_HelloConsol.runtimeconfig.json
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\bin\Debug\net6.0\001_HelloConsol.dll
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\bin\Debug\net6.0\001_HelloConsol.pdb
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\obj\Debug\net6.0\001_HelloConsol.csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\obj\Debug\net6.0\001_HelloConsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\obj\Debug\net6.0\001_HelloConsol.AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\obj\Debug\net6.0\001_HelloConsol.AssemblyInfo.cs
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\obj\Debug\net6.0\001_HelloConsol.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\obj\Debug\net6.0\001_HelloConsol.dll
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\obj\Debug\net6.0\refint\001_HelloConsol.dll
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\obj\Debug\net6.0\001_HelloConsol.pdb
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\obj\Debug\net6.0\001_HelloConsol.genruntimeconfig.cache
+C:\Users\Мария\Desktop\C#лекция1\001_HelloConsol\obj\Debug\net6.0\ref\001_HelloConsol.dll
